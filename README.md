@@ -6,7 +6,6 @@
 - 🧠 Currently learning **Deep Learning**
 - 🌱 Improving my skills in **Python & Java**
 - 📊 Passionate about building intelligent systems from data
-- 📫 Reach me here on GitHub: [@Anushka-Singh05](https://github.com/Anushka-Singh05)
 - 😄 Pronouns: She/Her  
 
 ---
